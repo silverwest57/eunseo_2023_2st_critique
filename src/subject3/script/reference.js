@@ -1,6 +1,6 @@
 const reference = [
   {
-    author: "",
+    author: "이은서",
     title: "",
     year: "",
     sourceTitle: "",

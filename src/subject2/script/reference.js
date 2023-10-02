@@ -1,5 +1,9 @@
 const reference = [
   {
-    사용된 이미지들은 상업적 사용이 가능한 무료이미지, ai로 생성된 이미지 입니다.,
+    author: "이은서",
+    title: "",
+    year: "",
+    sourceTitle: "",
+    link: "",
   },
-  
+];
